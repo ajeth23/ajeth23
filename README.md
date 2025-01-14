@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ajeth23" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="50" width="50" />
   </a>&nbsp;
-  <a href="https://www.facebook.com" target="blank">
+  <a href="https://www.facebook.com/ajeth23" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
   </a>&nbsp;
   <a href="https://x.com" target="blank">
@@ -31,6 +31,9 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
 </p>
 
 ---
@@ -42,9 +45,9 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Alan's Github stats](https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<!--![Jethros's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/ajeth23/github-readme-stats)
 
 ---
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog Posts:
@@ -67,3 +70,4 @@
 ---
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
