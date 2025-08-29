@@ -17,7 +17,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> About Me:
 - 📱 Passionate **Android Developer** with over **3 years of experience** building scalable, maintainable, and intuitive applications.
-- 🏢 Currently working as an **Android Developer** at **Collabera**, focusing on multi-module apps and integrating ML models.
+- 🏢 Currently working as an **Android Developer**, focusing on multi-module apps and integrating ML models.
 - 🚀 Skilled in **Kotlin**, **Java**, **MVVM Clean Architecture**, **TensorFlow Lite**, and **Firebase**.
 - 📚 Always learning: Exploring **Jetpack Compose**, **Coroutines**, and **Cloud Engineering**.
 - 💡 Fun Fact: I have hands-on experience in **patent research** and have contributed to **AI in Agriculture** through innovative solutions.
