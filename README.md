@@ -1,78 +1,72 @@
 <div align="center">
 
-  <a href="https://github.com/ajeth23">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alan+Jethro;Modern+Android+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=4&section=header" width="100%"/>
+<br><br>
+
+<a href="https://github.com/ajeth23">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=ALAN_JETHRO.EXE;SYSTEMS_ENGINEER;AI_RESEARCH_NODE;VAULT_HQ_UPLINK" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajeth23" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=000000&labelColor=000000" alt="LinkedIn"/>
   </a>
+  <a href="https://ajeth23.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FF00FF&color=000000&labelColor=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://img.shields.io/badge/X_NETWORK-000000?style=for-the-badge&logo=x&logoColor=00FFFF&color=000000&labelColor=000000" alt="X"/>
+  </a>
+</p>
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00ffff&height=2&section=header" width="60%"/>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ajeth23" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.facebook.com/ajeth23" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://x.com" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-    </a>
-  </p>
 </div>
 
-<br />
+<br>
 
----
+### ▓▒░ SYSTEM_ARCHITECTURE // USER_BIO ░▒▓
 
-### 🚀 About Me
-- 📱 Passionate **Android Developer** with over **3 years of experience** building scalable, maintainable, and intuitive applications.
-- 🏢 Currently engineering high-performance mobile solutions.
-- ⚙️ Skilled in **Kotlin**, **Java**, **MVVM Clean Architecture**, and cloud integrations.
-- 📚 Always learning: Exploring **Jetpack Compose**, **Coroutines**, and modern **Cloud Engineering**.
-- 💡 Fun Fact: I have hands-on experience in **patent research** and have contributed to **AI in Agriculture** through innovative image classification solutions.
+> **STATUS:** ONLINE | **LOCATION:** PHILIPPINES | **ENCRYPTION:** ACTIVE
+> 
+> Architecting high-performance mobile applications and integrating advanced **Neural Networks**. Currently expanding **Vault HQ**—an enterprise digital agency bridging secure core architectures with agricultural AI and scalable cloud infrastructures. 
 
----
+* **[CORE_DIRECTIVE]:** MS Computer Engineering at Mapúa University.
+* **[OPERATIONAL_STACK]:** Android (Kotlin/Jetpack), PyTorch, TensorFlow.
+* **[CLOUD_UPLINK]:** GCP (Cloud Run), Firebase, Cloudflare.
 
-### 💻 Core Architecture & Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,firebase,gcp,tensorflow,pytorch,mongodb,mysql,git&theme=dark&perline=5" alt="Tech Stack" />
-  </a>
-</p>
+<br>
 
----
-
-### 🌟 Key Achievements
-* **Published Research**: Authored a peer-reviewed paper on vegetable identification using AI, gaining international recognition.
-* **Freelance Excellence**: Delivered 5 successful projects on Upwork, achieving 100% client satisfaction.
-* **App Deployment**: Developed and deployed multiple apps to the Google Play Store, ensuring high performance and reliability.
-* **Certifications**: Completed specialized training in **Backend Web Development**, **Mobile App Development**, and **Computer System Servicing NC II**.
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/ajeth23">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/ajeth23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Top Langs" width="48%" />
-  </a>
-</p>
-
----
-
-### 📝 Latest Publications
-* [Vegetable Identification with AI: Challenges and Insights](https://ajeth23.tech/)
-* [Building Scalable Android Apps with Multi-Module Architecture](https://ajeth23.tech/)
-* [Tips for CI/CD in Android Development](https://ajeth23.tech/)
-▶ *[Read more on my blog](https://ajeth23.tech/)*
-
----
+### ▓▒░ NEURAL_NETWORK_COMPONENTS // TECH_STACK ░▒▓
 
 <div align="center">
-  <a href="https://readme-jokes.vercel.app">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,xml,git,tensorflow,pytorch,python,gcp,firebase,mongodb,cloudflare&theme=dark&perline=6" alt="Tech Stack" />
   </a>
-  <br />
-  <p><i>“Programming is not just coding; it’s solving problems with creativity.” — Unknown</i></p>
 </div>
+
+<br>
+
+### ▓▒░ TELEMETRY_DATA // GITHUB_ANALYTICS ░▒▓
+
+<div align="center">
+  <a href="https://github.com/ajeth23">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/ajeth23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&hide_border=true&langs_count=6" alt="Top Langs" width="48%" />
+  </a>
+</div>
+
+<br>
+
+### ▓▒░ DATA_TRANSMISSIONS // RECENT_LOGS ░▒▓
+
+```log
+[TIMESTAMP]       [DATA_PACKET]                                          [STATUS]
+-------------     ---------------------------------------------------    --------
+SYS_TIME_1        Vegetable Identification with AI: Challenges           [DELIVERED]
+SYS_TIME_2        Building Scalable Android Apps w/ Multi-Module Arc     [DELIVERED]
+SYS_TIME_3        Deploying Backend Services with GCP Cloud Run          [DELIVERED]
