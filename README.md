@@ -1,72 +1,69 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=200&section=header&text=Welcome%20to%20my%20Cyber-Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="40%" />
-<p align="start">
-  <a href="https://www.linkedin.com/in/ajeth23" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="50" width="50" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/ajeth23" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
-  </a>&nbsp;
-  <a href="https://x.com" target="blank">
-    <img align="center" src="https://banner2.cleanpng.com/20240119/kxy/transparent-abstract-design-black-square-with-white-letter-x-on-1710915506770.webp" alt="X" height="50" width="50" />
-  </a>&nbsp;
-</p>
+  <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+ajeth23;Futuristic+Android+Engineer;AI+%26+Mobile+Enthusiast" alt="Typing SVG" /></h1>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> About Me:
-- 📱 Passionate **Android Developer** with over **3 years of experience** building scalable, maintainable, and intuitive applications.
-- 🏢 Currently working as an **Android Engineer**
-- 🚀 Skilled in **Kotlin**, **Java**, **MVVM Clean Architecture**, **TensorFlow Lite**, and **Firebase**.
-- 📚 Always learning: Exploring **Jetpack Compose**, **Coroutines**, and **Cloud Engineering**.
-- 💡 Fun Fact: I have hands-on experience in **patent research** and have contributed to **AI in Agriculture** through innovative solutions.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ajeth23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/ajeth23"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
-### 🧑‍💻 Tech I Work On:
+
+### ⚡ System_Initialization: `About_Me.sh`
+> 📱 **Core Protocol:** Passionate **Android Developer** (3+ years) building scalable, intuitive, and maintainable applications.
+> 🏢 **Current Node:** Deployed as an **Android Engineer**.
+> 🚀 **Tech Stack:** Kotlin, Java, MVVM Clean Architecture, TensorFlow Lite, and Firebase.
+> 📚 **Background Processes:** Exploring Jetpack Compose, Coroutines, and Cloud Engineering.
+> 💡 **Easter Egg:** Hands-on experience in patent research and contributing to AI in Agriculture.
+
+---
+
+### ⚙️ Neural_Network_Links: `Tech_Stack`
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
-### 🌟 Key Achievements:
-- **Published Research**: Authored a peer-reviewed paper on vegetable identification using AI, gaining international recognition.
-- **Freelance Excellence**: Delivered 5 successful projects on Upwork, achieving 100% client satisfaction.
-- **App Deployment**: Developed and deployed multiple apps to the Google Play Store, ensuring high performance and reliability.
-- **Certification**: Completed specialized training in **Backend Web Development**, **Mobile App Development**, and **Computer System Servicing NC II**.
+
+### 🏆 Milestone_Logs
+* **[Published_Research]:** Authored a peer-reviewed paper on vegetable identification using AI, gaining international recognition.
+* **[Freelance_Excellence]:** Delivered 5 successful projects on Upwork, achieving 100% client satisfaction.
+* **[App_Deployment]:** Developed and deployed multiple apps to the Google Play Store, ensuring high performance.
+* **[Certifications]:** Specialized training in Backend Web Development, Mobile App Development, & Computer System Servicing NC II.
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<!--![Jethros's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/ajeth23/github-readme-stats)
-
----
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Vegetable Identification with AI: Challenges and Insights](https://ajeth23.tech/)
-- [Building Scalable Android Apps with Multi-Module Architecture](https://ajeth23.tech/)
-- [Tips for CI/CD in Android Development](https://ajeth23.tech/)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://ajeth23.tech/)
+### 📊 Telemetry_Data: `GitHub_Stats`
+<p align="center">
+  <a href="https://github.com/ajeth23">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ajeth23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" alt="Top Langs" />
+  </a>
+</p>
 
 ---
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“Programming is not just coding; it’s solving problems with creativity.”— Unknown</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+
+### 📡 Transmission_Feeds: `Latest_Posts`
+* [Vegetable Identification with AI: Challenges and Insights](https://ajeth23.tech/)
+* [Building Scalable Android Apps with Multi-Module Architecture](https://ajeth23.tech/)
+* [Tips for CI/CD in Android Development](https://ajeth23.tech/)
+*▶ [Access Full Archive](https://ajeth23.tech/)*
 
 ---
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card" />
+  <br/><br/>
+  <i>“Programming is not just coding; it’s solving problems with creativity.” — Unknown</i>
+</div>
