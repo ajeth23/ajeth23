@@ -1,72 +1,275 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=4&section=header" width="100%"/>
-<br><br>
+<!-- Soft Apple-style gradient header -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A84FF,45:5E5CE6,100:BF5AF2&text=Alan%20Jethro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Researcher&descAlignY=60&descSize=16&animation=fadeIn"
+  width="100%"
+/>
+
+<br/>
 
 <a href="https://github.com/ajeth23">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=ALAN_JETHRO.EXE;SYSTEMS_ENGINEER;AI_RESEARCH_NODE;VAULT_HQ_UPLINK" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2800&pause=1200&color=8E8E93&center=true&vCenter=true&width=650&lines=Building+thoughtful+mobile+experiences.;Exploring+AI+%2B+intelligent+systems.;Designing+scalable+software+architecture.;Creating+technology+that+feels+simple."
+    alt="Typing animation"
+  />
 </a>
 
-<br><br>
+<br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajeth23" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color=000000&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="https://ajeth23.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FF00FF&color=000000&labelColor=000000" alt="Portfolio"/>
-  </a>
-  <a href="https://x.com" target="_blank">
-    <img src="https://img.shields.io/badge/X_NETWORK-000000?style=for-the-badge&logo=x&logoColor=00FFFF&color=000000&labelColor=000000" alt="X"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ajeth23">
+  <img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://ajeth23.tech/">
+  <img src="https://img.shields.io/badge/Portfolio-1C1C1E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/ajeth23">
+  <img src="https://img.shields.io/badge/GitHub-1C1C1E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00ffff&height=2&section=header" width="60%"/>
+<br/><br/>
+
+<sub>📍 Philippines &nbsp;&nbsp;•&nbsp;&nbsp; Available for collaboration</sub>
 
 </div>
 
-<br>
+<br/>
 
-### ▓▒░ SYSTEM_ARCHITECTURE // USER_BIO ░▒▓
+---
 
-> **STATUS:** ONLINE | **LOCATION:** PHILIPPINES | **ENCRYPTION:** ACTIVE
-> 
-> Architecting high-performance mobile applications and integrating advanced **Neural Networks**. Currently expanding **Vault HQ**—an enterprise digital agency bridging secure core architectures with agricultural AI and scalable cloud infrastructures. 
+## About
 
-* **[CORE_DIRECTIVE]:** MS Computer Engineering at Mapúa University.
-* **[OPERATIONAL_STACK]:** Android (Kotlin/Jetpack), PyTorch, TensorFlow.
-* **[CLOUD_UPLINK]:** GCP (Cloud Run), Firebase, Cloudflare.
+I’m **Alan Jethro**, a software engineer focused on building modern mobile applications, intelligent systems, and scalable software architectures.
 
-<br>
+My work sits at the intersection of **Android engineering, artificial intelligence, cloud infrastructure, and product development**.
 
-### ▓▒░ NEURAL_NETWORK_COMPONENTS // TECH_STACK ░▒▓
+I’m currently pursuing an **MS in Computer Engineering at Mapúa University** while expanding **Vault HQ**, a digital technology initiative exploring enterprise software, agricultural AI, and cloud-native systems.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Focus
+
+- Native Android engineering
+- Clean & modular architecture
+- AI / machine learning
+- Computer vision
+- Cloud-native backends
+- Intelligent applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Currently Exploring
+
+- Kotlin Multiplatform
+- On-device AI
+- Edge inference
+- Neural networks
+- Scalable system design
+- AI-powered agriculture
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## Technology
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,xml,git,tensorflow,pytorch,python,gcp,firebase,mongodb,cloudflare&theme=dark&perline=6" alt="Tech Stack" />
-  </a>
+
+### Mobile & Software
+
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,git,github&theme=light" />
+
+<br/><br/>
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=light" />
+
+<br/><br/>
+
+### Cloud & Data
+
+<img src="https://skillicons.dev/icons?i=gcp,firebase,mongodb,cloudflare&theme=light" />
+
 </div>
 
-<br>
+<br/>
 
-### ▓▒░ TELEMETRY_DATA // GITHUB_ANALYTICS ░▒▓
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Agricultural AI
+
+**Vegetable Identification with AI**
+
+Computer-vision research focused on identifying agricultural produce using modern neural-network architectures.
+
+`Computer Vision` `PyTorch` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Android Architecture
+
+**Scalable Multi-Module Applications**
+
+Exploring maintainable Android architectures designed for growing products, teams, and feature sets.
+
+`Kotlin` `Android` `Architecture`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Infrastructure
+
+**Cloud Run Backend Systems**
+
+Deploying scalable backend services using containerized workloads and Google Cloud infrastructure.
+
+`GCP` `Cloud Run` `Backend`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Intelligent Systems
+
+**AI Research & Experimentation**
+
+Experimenting with neural networks, edge intelligence, and AI-powered product experiences.
+
+`TensorFlow` `PyTorch` `ML`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## GitHub
 
 <div align="center">
-  <a href="https://github.com/ajeth23">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/ajeth23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&hide_border=true&langs_count=6" alt="Top Langs" width="48%" />
-  </a>
+
+<a href="https://github.com/ajeth23">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ajeth23&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=8E8E93&icon_color=BF5AF2&hide_rank=true"
+    alt="Alan's GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/ajeth23">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeth23&layout=compact&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=8E8E93&langs_count=6"
+    alt="Most used languages"
+  />
+</a>
+
 </div>
 
-<br>
+<br/>
 
-### ▓▒░ DATA_TRANSMISSIONS // RECENT_LOGS ░▒▓
+<div align="center">
 
-```log
-[TIMESTAMP]       [DATA_PACKET]                                          [STATUS]
--------------     ---------------------------------------------------    --------
-SYS_TIME_1        Vegetable Identification with AI: Challenges           [DELIVERED]
-SYS_TIME_2        Building Scalable Android Apps w/ Multi-Module Arc     [DELIVERED]
-SYS_TIME_3        Deploying Backend Services with GCP Cloud Run          [DELIVERED]
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ajeth23&hide_border=true&background=00000000&ring=0A84FF&fire=BF5AF2&currStreakLabel=0A84FF&sideLabels=8E8E93&dates=8E8E93"
+  width="70%"
+  alt="GitHub streak"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## Recent Notes
+
+<details>
+<summary><b>🌱 Vegetable Identification with AI — Challenges</b></summary>
+
+<br/>
+
+Research and experimentation around computer vision systems for agricultural applications, including dataset quality, feature extraction, classification accuracy, and real-world deployment constraints.
+
+</details>
+
+<details>
+<summary><b>📱 Building Scalable Android Apps with Multi-Module Architecture</b></summary>
+
+<br/>
+
+Notes on designing Android applications using modular architecture to improve maintainability, build performance, separation of concerns, and long-term scalability.
+
+</details>
+
+<details>
+<summary><b>☁️ Deploying Backend Services with Google Cloud Run</b></summary>
+
+<br/>
+
+Exploring containerized backend deployment, autoscaling, infrastructure simplification, and integration with modern mobile applications.
+
+</details>
+
+<br/>
+
+---
+
+## Philosophy
+
+<div align="center">
+
+### “Powerful technology should feel simple.”
+
+I enjoy engineering systems that are technically sophisticated underneath  
+while remaining **clean, intuitive, and effortless** for the people using them.
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<a href="https://ajeth23.tech/">
+  <img src="https://img.shields.io/badge/Explore_my_work-0A84FF?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>
+Designed with simplicity in mind.<br/>
+Alan Jethro © 2026
+</sub>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:BF5AF2,50:5E5CE6,100:0A84FF"
+  width="100%"
+/>
+
+</div>
